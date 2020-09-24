@@ -13,7 +13,7 @@ Draws some album covers using only python commands
 ---
 
 ### Examples:
-![fig](https://github.com/JoseSoto9305/Album_Covers/tree/master/Images/fig.png)
+![fig](https://github.com/JoseSoto9305/Album_Covers/blob/master/Images/fig.png)
 
 ---
 
