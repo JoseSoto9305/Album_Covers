@@ -1,12 +1,9 @@
 # Album_Covers
 
----
-
-Draws album covers 
 
 ---
 
-Draws some album covers using only python commands
+Draws some album covers using only python commands.
 
 * I will upload more files soon ;)
 
@@ -19,10 +16,10 @@ Draws some album covers using only python commands
 
 ### Usage:
 
-Just run on your terminal
+Just run on your terminal:
 ```
 python filename.py
 ```
 
 ### Installation:
-You will need numpy and matplotlib installed on your computer
+You need numpy and matplotlib installed on your computer.
